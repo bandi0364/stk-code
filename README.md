@@ -33,6 +33,7 @@ SuperTuxKart: X right, Y up, Z forwards
 
 Blender: X right, Y forwards, Z up
 
++
 The export utilities  perform the needed transformation, so in Blender you just work with the XY plane as ground, and things will appear fine in STK (using XZ as ground in the code, obviously).
 
 ## Building from source
